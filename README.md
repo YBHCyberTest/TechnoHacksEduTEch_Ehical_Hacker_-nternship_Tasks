@@ -17,7 +17,7 @@
 ## Third Task :Sniffing Attack using Wireshark:
 ### Follow the steps below to execute the task :
   * [ ] 1. Opening Wireshark ,visiting [vulnweb website](http://testphp.vulnweb.com) making access with username and password
-  * [ ] 2. Using Wireshark packet analyzer tool and trying to find ID and password of HTTP website [vulnweb website](http://testphp.vulnweb.com
+  * [ ] 2. Using Wireshark packet analyzer tool and trying to find ID and password of HTTP website [vulnweb website](http://testphp.vulnweb.com)
   * [ ] 3. Clicking on ` HTML form URL encoded` and checking the ID and password or  Using filtration and clicking on HTTP protocal  after choosing `Follow & TCP stream` to find ID and password.
 
 ## Forth Task :Network Scanning:
