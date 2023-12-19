@@ -16,6 +16,6 @@
 
 ## Second Task :Kali Linux - Hands-on:
 ### Follow the steps below to execute the task :
-  * [ ] 1. Run The Kali Lunix System
+  * [ ] 1. Opening Terminal and ping [vulnweb website](http://testphp.vulnweb.com) to geting ip ``` 44.228.249.3```
   * [ ] 2. Open the tirminal and  write the line-commands.
   * [ ] 3. To get more informaton about line-commands and get advance level use [this](https://kennyvn.com/cheatsheet-useful-bash-commands-linux/)
