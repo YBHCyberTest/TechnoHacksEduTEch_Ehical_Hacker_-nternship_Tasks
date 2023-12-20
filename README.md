@@ -1,4 +1,4 @@
-# TechnoHacksEduTEch_Ethical_Hacker_-Internship_Tasks
+# TechnoHacksEduTEch_Ethical_Hacker_Internship_Tasks
 # --------------------------------------------------------------
 
 ### I completed four of the tasks the Techno Hacks EduTech company gave me using [vulnweb website](http://testphp.vulnweb.com). The stages for each assignment are listed below, and the images in the folders at the top can be used to view the solutions.
