@@ -10,13 +10,13 @@
 
 ## Second Task :Kali Linux - Hands-on:
 ### Follow the steps below to execute the task :
-  * [ ] 1. Run The Kali Lunix System
-  * [ ] 2. Open the tirminal and  write the line-commands.
+  * [ ] 1. Runing The Kali Lunix System
+  * [ ] 2. Opening the tirminal and  writing the line-commands.
   * [ ] 3. To get more informaton about line-commands and get advance level use [this](https://kennyvn.com/cheatsheet-useful-bash-commands-linux/)
 
 ## Third Task :Sniffing Attack using Wireshark:
 ### Follow the steps below to execute the task :
-  * [ ] 1. Opening Wireshark ,visiting [vulnweb website](http://testphp.vulnweb.com) making access with username and password
+  * [ ] 1. Opening Wireshark ,visiting [vulnweb website](http://testphp.vulnweb.com) ,and making access with username and password
   * [ ] 2. Using Wireshark packet analyzer tool and trying to find ID and password of HTTP website [vulnweb website](http://testphp.vulnweb.com)
   * [ ] 3. Clicking on ` HTML form URL encoded` and checking the ID and password or  Using filtration and clicking on HTTP protocal  after choosing `Follow & TCP stream` to find ID and password.
 
